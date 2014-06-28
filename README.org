@@ -1,0 +1,5 @@
+* Sahitya
+
+Sāhitya in Sanskrit means literature.
+Headover to [[https://github.com/brihat/sahitya/wiki][Wiki]] for more info.
+
